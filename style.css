@@ -11,6 +11,7 @@ a .attribution {
   }
   body {
     background-color: hsl(212, 45%, 89%);
+    font-family: "Outfit";
   }
   .container {
     position: absolute;
@@ -27,6 +28,10 @@ a .attribution {
     font-size: 18px;
     color: hsl(218, 44%, 22%);
   }
+  h1 {
+    margin: 10px 0 0;
+
+  }
   .bottom {
     padding: 0.3rem 0 0.8rem 0;
     filter: blur(0.5px);
@@ -36,7 +41,6 @@ a .attribution {
     font-weight: 400;
     color: hsl(216, 15%, 48%);
     margin: 0.5rem;
-    font-family: "Outfit";
   }
   .container img {
     height: 230px;
